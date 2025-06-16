@@ -1,57 +1,5 @@
 <!-- Greeting -->
-👋 Hi, I’m **@amichy**
 
----
-
-## 🎯 About Me
-I’m a **Frontend Web Developer** passionate about crafting responsive, accessible, and performant user interfaces. I enjoy turning designs into reality with modern frameworks and clean code.
-
-- 🔭 I’m currently working on frontend projects using React, Next.js, and Tailwind CSS.
-- 🌱 I’m continuously learning advanced JavaScript patterns, TypeScript, and improving accessibility skills.
-- 💼 Open to freelance/contract work and collaboration on innovative web development projects.
-
----
-
-## 🛠 Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React, Next.js, Vue.js
-- **Styling:** Tailwind CSS, CSS Modules, Styled Components
-- **State Management:** Redux, Context API, Zustand
-- **Build & Tooling:** Vite, Webpack, npm/yarn, ESLint, Prettier
-- **Version Control:** Git & GitHub
-- **Others:** REST APIs, GraphQL (Apollo Client), JWT auth, CI/CD basics
-
-
----
-
-## 🤝 Collaboration
-I’m looking to collaborate on:
-- Frontend tasks: component libraries, UI/UX improvements.
-- Open-source contributions, especially documentation or small bug fixes in popular frontend repos.
-- Projects that focus on performance optimization, accessibility, or modern CSS techniques.
-
-Feel free to open an issue or PR, or reach out to discuss ideas!
-
----
-
- 📫 Contact
-- 📱 Phone/WhatsApp: +234 806 555 7468  
-- 🐦 Twitter/X: [@js_mimie](https://x.com/js_mimie)  
-- 📧 Email: your.amichy07@gmail.com    
-- 🌐 Portfolio: [your-portfolio.com](https://devfolio-livid-two.vercel.app/)
-
-
-
----
-
- 🔗 Quick Links
-- 📂 [Portfolio Repo](https://github.com/Mimieamichy/devfolio)  
-
-
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
-</p>
 
 
 <!---
